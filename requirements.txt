@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+openai
+sounddevice
+scipy
+speechrecognition
+streamlit
